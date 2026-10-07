@@ -1,5 +1,5 @@
 # AI-Powered Food Waste Management â€” Synthetic Dataset
-
+deployed link: https://realistic-synthetic-inventory-dataset-for-food-waste-predictio.streamlit.app/
 ## Overview
 
 This dataset simulates **8,000 daily inventory records** for food businesses â€”
